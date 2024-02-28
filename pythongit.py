@@ -1,4 +1,4 @@
-testo = "pingas de monos"
+testo = input("Ingrese el tecto que desea ingresar: ")
 
 
 def detecte_pinga_de_mono(texto):
