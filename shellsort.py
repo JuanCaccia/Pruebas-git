@@ -1,11 +1,11 @@
 #ESte es un comentario en el shellsort
 
 def shell_sort(arr):
-    n = len(arr)
+    l = len(arr)
     gap = n // 2
 
     while gap > 0:
-        for i in range(gap, n):
+        for i in range(gap, l):
             temp = arr[i]
             j = i
 
