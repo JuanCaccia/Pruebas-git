@@ -1,4 +1,4 @@
-testo = input("Ingrese el tecto que desea ingresar: ")
+testo = input("Ingrese el texto que desea ingresar: ")
 
 
 def detecte_pinga_de_mono(texto):
